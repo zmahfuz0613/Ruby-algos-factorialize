@@ -1,8 +1,9 @@
-# write your sudo code here
+# FACTORIALIZE
+
+# Pseudocode here.
 
 def factorialize(int)
-  #your code here
 
 end
 
-# puts factorialize 4
+puts factorialize 4
